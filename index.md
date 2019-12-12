@@ -3,15 +3,14 @@
 layout: col-sidebar
 title: OWASP Risk Assessment Framework
 tags: example-tag
-level: 0
-type: documentation
+level: 4
+type: Tool
 
 auto-migrated: 1
 
 auto-migrated: 1
 
 ---
-
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -29,16 +28,51 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
-## Welcome
-Include some information here about your chapter
+# The OWASP Risk Assessment Framework
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+[![Build Status](https://travis-ci.org/OWASP/RiskAssessmentFramework.svg?branch=master)](https://travis-ci.org/OWASP/RiskAssessmentFramework)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7bb78cc6ec4a4951a96e8c712758e030)](https://app.codacy.com/app/adeyosemanputra/RiskAssessmentFramework?utm_source=github.com&utm_medium=referral&utm_content=OWASP/RiskAssessmentFramework&utm_campaign=Badge_Grade_Settings)
+![GSOC 2019][GSOC-2019-badge]
+![Repo Size](https://img.shields.io/github/repo-size/OWASP/RiskAssessmentFramework.svg)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/OWASP/RiskAssessmentFramework/issues)
+![Last commit](https://img.shields.io/github/last-commit/OWASP/RiskAssessmentFramework.svg)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-tool-blue.svg)](https://www.owasp.org/index.php/Risk_Assessment_Framework)
+[![PRESENT](https://img.shields.io/badge/Arsenal%20-Blackhat%20US%202019-green)](https://www.blackhat.com/us-19/arsenal/schedule/index.html#rwdd-remote-web-deface-detection-tool-16775)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+The OWASP Risk Assessment Framework consist of Static application security testing and Risk Assessment tools, Eventhough there are many SAST tools available for testers, but the compatibility and the Environement setup process is complex. By using OWASP Risk Assessment Framework's Static Appilication Security Testing tool Testers will be able to analyse and review their code quality and vulnerabilities without any additional setup. OWASP Risk Assessment Framework can be integrated in the DevSecOps toolchain to help developers to write and produce secure code.<br>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+## features
 
+-   Remote Web Deface Detection (Optional)
+-   Static Application security Testing
+
+##    Web Deface Detection
+## Web Deface Detection Installation
+-   `cd web_deface/`
+-   `pip install -r requirements.txt`
+-   `python web_deface.py <notif arguments>` <br>
+-   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/web_deface/README.md)
+<br>we have update related web deface detection please see video [Youtube](http://www.youtube.com/watch?v=1vFaGxvzMh4 "Web Deface Detection ")<br>
+##   Static Application security Testing (Under Develoment)
+-   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/user-guide.md)<br>
+## Demo RAF SAST Tool
+
+![Demo-1](https://user-images.githubusercontent.com/36698676/63649995-a32f0180-c762-11e9-999c-2b50f32340fd.gif) <br>
+
+![Demo-2](https://user-images.githubusercontent.com/36698676/63650087-649a4680-c764-11e9-9fca-86ccc4880f18.gif)
+____
+
+## Contribute
+ wanna contribute this project dm me via twitter @johnleedik
+
+
+
+## Project Lead
+-  Ade Yoseman Putra [(@adeyosemanputra)](https://github.com/adeyosemanputra)
+
+## Mentor
+- AZZEDDINE Ramrami [(@aramrami)](https://github.com/aramrami)
 ## Local News
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
