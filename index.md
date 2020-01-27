@@ -1,10 +1,11 @@
 ---
-
 layout: col-sidebar
 title: OWASP Risk Assessment Framework
 tags: example-tag
 level: 0
 type: tool
+
+---
 
 # The OWASP Risk Assessment Framework
 
