@@ -1,7 +1,10 @@
 ---
+
 layout: col-sidebar
 title: OWASP Risk Assessment Framework
-tags: DevSecOps
+site_side: true
+tags:  DevSecOps
+project: true
 level: 2
 type: tool
 
