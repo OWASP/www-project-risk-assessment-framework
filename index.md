@@ -1,14 +1,9 @@
 ---
 layout: col-sidebar
 title: OWASP Risk Assessment Framework
-tags: example-tag
-
-level: 0
+tags: DevSecOps
+level: 2
 type: tool
-=======
-level: 4
-type: Tool
-
 
 ---
 
