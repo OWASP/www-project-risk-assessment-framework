@@ -2,10 +2,52 @@
 layout: col-sidebar
 title: OWASP Risk Assessment Framework
 tags: example-tag
+
 level: 0
 type: tool
+=======
+level: 4
+type: Tool
+
 
 ---
+
+# The OWASP Risk Assessment Framework
+
+[![Build Status](https://travis-ci.org/OWASP/RiskAssessmentFramework.svg?branch=master)](https://travis-ci.org/OWASP/RiskAssessmentFramework)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7bb78cc6ec4a4951a96e8c712758e030)](https://app.codacy.com/app/adeyosemanputra/RiskAssessmentFramework?utm_source=github.com&utm_medium=referral&utm_content=OWASP/RiskAssessmentFramework&utm_campaign=Badge_Grade_Settings)
+![GSOC 2019][GSOC-2019-badge]
+![Repo Size](https://img.shields.io/github/repo-size/OWASP/RiskAssessmentFramework.svg)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/OWASP/RiskAssessmentFramework/issues)
+![Last commit](https://img.shields.io/github/last-commit/OWASP/RiskAssessmentFramework.svg)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-tool-blue.svg)](https://www.owasp.org/index.php/Risk_Assessment_Framework)
+[![PRESENT](https://img.shields.io/badge/Arsenal%20-Blackhat%20US%202019-green)](https://www.blackhat.com/us-19/arsenal/schedule/index.html#rwdd-remote-web-deface-detection-tool-16775)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+
+The OWASP Risk Assessment Framework consist of Static application security testing and Risk Assessment tools, Eventhough there are many SAST tools available for testers, but the compatibility and the Environement setup process is complex. By using OWASP Risk Assessment Framework's Static Appilication Security Testing tool Testers will be able to analyse and review their code quality and vulnerabilities without any additional setup. OWASP Risk Assessment Framework can be integrated in the DevSecOps toolchain to help developers to write and produce secure code.<br>
+
+## features
+=======
+
+-   Remote Web Deface Detection (Optional)
+-   Static Application security Testing
+
+##    Web Deface Detection
+## Web Deface Detection Installation
+-   `cd web_deface/`
+-   `pip install -r requirements.txt`
+-   `python web_deface.py <notif arguments>` <br>
+-   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/web_deface/README.md)
+<br>we have update related web deface detection please see video [Youtube](http://www.youtube.com/watch?v=1vFaGxvzMh4 "Web Deface Detection ")<br>
+##   Static Application security Testing (Under Develoment)
+-   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/user-guide.md)<br>
+## Demo RAF SAST Tool
+
+
+## Contribute
+ wanna contribute this project dm me via twitter @johnleedik
+
 
 # The OWASP Risk Assessment Framework
 
