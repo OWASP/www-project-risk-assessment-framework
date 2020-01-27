@@ -44,17 +44,6 @@ The OWASP Risk Assessment Framework consist of Static application security testi
 ![Demo-2](https://user-images.githubusercontent.com/36698676/63650087-649a4680-c764-11e9-9fca-86ccc4880f18.gif)
 ____
 
-## Contribute
- wanna contribute this project dm me via twitter @johnleedik
-
-
-
-## Project Lead
-- Ade Yoseman Putra [(@adeyosemanputra)](https://github.com/adeyosemanputra)
-- AZZEDDINE Ramrami [(@aramrami)](https://github.com/aramrami)
-- Rejah Rehim [(@RejahRehim)](https://github.com/rejahrehim)
-
-
 
 [License]:  /LICENSE
 [Version]: (https://github.com/OWASP/SecureTea-Project/releases)
