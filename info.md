@@ -8,9 +8,7 @@
 ![Tool Project](assets/images/owasp_tool_project.png)
 
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
-
-### Code Repository
-* [repo](#)-->
+###  Web Deface Detection Installation
+cd web_deface/
+pip install -r requirements.txt
+python web_deface.py <notif arguments>
