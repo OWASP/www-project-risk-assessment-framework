@@ -1,11 +1,11 @@
 ---
-layout: col-sidebar
+
 title: Screenshots
-site_side: true
-tags:  risk-assessment-framework
-project: true
-level: 1
-type: tool
+layout: null
+order: 1
+tab: true
+tags: risk-assessment-framework
+
 ---
 
 # Risk Assessment Framework In Action : Demo RAF SAST Tool
