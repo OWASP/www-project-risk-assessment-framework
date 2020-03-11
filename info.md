@@ -1,8 +1,3 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
-
 ### Project Classification
 
 ![Flagship Project](assets/images/mature_projects.png)
