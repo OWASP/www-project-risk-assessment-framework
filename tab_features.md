@@ -8,9 +8,7 @@ tags: risk-assessment-framework
 
 ---
 
-## Features
-
-### LANDING PAGE/ HOME PAGE
+## LANDING PAGE/ HOME PAGE
 
 Summarized results of your tests can be viewed from here
 -   Using the left sidebar you will be able to navigate to other pages.
@@ -21,7 +19,7 @@ Summarized results of your tests can be viewed from here
 
 Can be viewed
 
-### TOOLS PAGE
+## TOOLS PAGE
 -   Tools page let you access the tools provided by the Risk Assessment Framework
 -   Where you can upload your code to get the results.
 -   Types of code upload,
