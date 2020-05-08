@@ -7,8 +7,6 @@
 
 ![Tool Project](assets/images/owasp_tool_project.png)
 
+### Sources
 
-###  Web Deface Detection Installation
-cd web_deface/
-pip install -r requirements.txt
-python web_deface.py <notif arguments>
+* [GitHub](https://github.com/Risk-Assessment-Framework)
