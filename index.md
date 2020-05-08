@@ -22,19 +22,7 @@ type: tool
 
 The OWASP Risk Assessment Framework consist of Static application security testing and Risk Assessment tools, Eventhough there are many SAST tools available for testers, but the compatibility and the Environement setup process is complex. By using OWASP Risk Assessment Framework's Static Appilication Security Testing tool Testers will be able to analyse and review their code quality and vulnerabilities without any additional setup. OWASP Risk Assessment Framework can be integrated in the DevSecOps toolchain to help developers to write and produce secure code.<br>
 
-## features
-
--   Remote Web Deface Detection (Optional)
--   Static Application security Testing
-
-##    Web Deface Detection
-## Web Deface Detection Installation
--   `cd web_deface/`
--   `pip install -r requirements.txt`
--   `python web_deface.py <notif arguments>` <br>
--   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/web_deface/README.md)
-<br>we have update related web deface detection please see video [Youtube](http://www.youtube.com/watch?v=1vFaGxvzMh4 "Web Deface Detection ")<br>
-##   Static Application security Testing (Under Develoment)
+##   Static Application security Testing 
 -   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/user-guide.md)<br>
 ## Demo RAF SAST Tool
 
