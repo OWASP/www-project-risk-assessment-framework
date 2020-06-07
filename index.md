@@ -14,7 +14,7 @@ type: tool
 ![GSOC 2019][GSOC-2019-badge]
 ![Repo Size](https://img.shields.io/github/repo-size/OWASP/RiskAssessmentFramework.svg)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/OWASP/RiskAssessmentFramework/issues)
-![Last commit](https://img.shields.io/github/last-commit/OWASP/RiskAssessmentFramework.svg)
+
 [![OWASP Incubator](https://img.shields.io/badge/owasp-tool-blue.svg)](https://www.owasp.org/index.php/Risk_Assessment_Framework)
 [![PRESENT](https://img.shields.io/badge/Arsenal%20-Blackhat%20US%202019-green)](https://www.blackhat.com/us-19/arsenal/schedule/index.html#rwdd-remote-web-deface-detection-tool-16775)
 [![PRESENT](https://img.shields.io/badge/Arsenal%20-Blackhat%20Asia%202020-blue)](https://www.blackhat.com/asia-20/arsenal/schedule/index.html#the-owasp-raf-static-application-security-testing-tool-19261)
