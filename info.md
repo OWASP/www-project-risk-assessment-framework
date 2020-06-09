@@ -1,6 +1,6 @@
 ### Project Classification
 
-![Flagship Project](assets/images/mature_projects.png)
+![Incubator Project](/assets/images/common/owasp_level_incubator.svg){:width=55px}
 
 ![Builders](assets/images/owasp_builders_small.png)
 ![Breakers](assets/images/owasp_breakers_small.png)
