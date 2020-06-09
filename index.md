@@ -4,7 +4,7 @@ title: OWASP Risk Assessment Framework
 site_side: true
 tags:  risk-assessment-framework
 project: true
-level: 4
+level: 2
 type: tool
 ---
 # The OWASP Risk Assessment Framework
