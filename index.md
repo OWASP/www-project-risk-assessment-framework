@@ -28,9 +28,9 @@ The OWASP Risk Assessment Framework consist of Static application security testi
 ![Demo-2](https://user-images.githubusercontent.com/36698676/63650087-649a4680-c764-11e9-9fca-86ccc4880f18.gif)
 ____
 
-## At this time RAF has 2 tools is RAF Scanner IDE for SAST also DAST Scanner (br)
-(RAF Scanner IDE)[https://github.com/Risk-Assessment-Framework/Raf-Scanner](br)
-(RAF DAST Scanner)(https://github.com/Risk-Assessment-Framework/RAF-DAST-Scanner)(br)
+## At this time RAF has 2 tools is RAF Scanner IDE for SAST also DAST Scanner<br>
+[RAF Scanner IDE][https://github.com/Risk-Assessment-Framework/Raf-Scanner]<br>
+[RAF DAST Scanner](https://github.com/Risk-Assessment-Framework/RAF-DAST-Scanner)<br>
 
 
 [License]:  /LICENSE
