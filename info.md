@@ -9,4 +9,6 @@
 
 ### Sources
 
-* [GitHub](https://github.com/Risk-Assessment-Framework)
+* [GitHub](https://github.com/Risk-Assessment-Framework/)
+* [SAST RAF-Scanner Plugin for IDE Repo](https://github.com/Risk-Assessment-Framework/Raf-Scanner)
+* [DAST RAF Scanner](https://github.com/Risk-Assessment-Framework/RAF-DAST-Scanner)
