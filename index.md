@@ -9,9 +9,6 @@ type: tool
 ---
 # The OWASP Risk Assessment Framework
 
-[![Build Status](https://travis-ci.org/OWASP/RiskAssessmentFramework.svg?branch=master)](https://travis-ci.org/OWASP/RiskAssessmentFramework)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7bb78cc6ec4a4951a96e8c712758e030)](https://app.codacy.com/app/adeyosemanputra/RiskAssessmentFramework?utm_source=github.com&utm_medium=referral&utm_content=OWASP/RiskAssessmentFramework&utm_campaign=Badge_Grade_Settings)
-![GSOC 2019][GSOC-2019-badge]
 ![Repo Size](https://img.shields.io/github/repo-size/OWASP/RiskAssessmentFramework.svg)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Risk-Assessment-Framework/)
 
@@ -31,7 +28,7 @@ The OWASP Risk Assessment Framework consist of Static application security testi
 ![Demo-2](https://user-images.githubusercontent.com/36698676/63650087-649a4680-c764-11e9-9fca-86ccc4880f18.gif)
 ____
 
-at this time RAF has 2 tools is RAF Scanner IDE for SAST also DAST Scanner (/br)
+At this time RAF has 2 tools is RAF Scanner IDE for SAST also DAST Scanner (/br)
 (RAF Scanner IDE)[https://github.com/Risk-Assessment-Framework/Raf-Scanner](/br)
 (RAF DAST Scanner)(https://github.com/Risk-Assessment-Framework/RAF-DAST-Scanner)(/br)
 
