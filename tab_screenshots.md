@@ -16,4 +16,5 @@ tags: risk-assessment-framework
 
 ## RAF DAST Scanner
 
-[RAF DAST Youtube](https://youtu.be/y3ExlOs5K7o)
+[RAF DAST Youtube](https://youtu.be/y3ExlOs5K7o)(br)
+[RAF DAST Demo](https://raf-dast-scanner.vercel.app/dashboard)
