@@ -20,7 +20,7 @@ type: tool
 [![PRESENT](https://img.shields.io/badge/Arsenal%20-Blackhat%20Asia%202020-blue)](https://www.blackhat.com/asia-20/arsenal/schedule/index.html#the-owasp-raf-static-application-security-testing-tool-19261)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-The OWASP Risk Assessment Framework consist of Static application security testing and Risk Assessment tools, Eventhough there are many SAST tools available for testers, but the compatibility and the Environement setup process is complex. By using OWASP Risk Assessment Framework's Static Appilication Security Testing tool Testers will be able to analyse and review their code quality and vulnerabilities without any additional setup. OWASP Risk Assessment Framework can be integrated in the DevSecOps toolchain to help developers to write and produce secure code.<br>
+The OWASP Risk Assessment Framework consist of Static application security testing, Risk Assessment tools, DAST Scanner tools, Eventhough there are many SAST & DAST tools available for testers, but the compatibility and the Environement setup process is complex. By using OWASP Risk Assessment Framework's Static Appilication Security Testing tool Testers will be able to analyse and review their code quality and vulnerabilities without any additional setup. OWASP Risk Assessment Framework can be integrated in the DevSecOps toolchain to help developers to write and produce secure code.<br>
 
 ##   Static Application security Testing 
 -   For more detailed information, refer to the [user guide](https://github.com/OWASP/RiskAssessmentFramework/blob/master/user-guide.md)<br>
@@ -30,6 +30,10 @@ The OWASP Risk Assessment Framework consist of Static application security testi
 
 ![Demo-2](https://user-images.githubusercontent.com/36698676/63650087-649a4680-c764-11e9-9fca-86ccc4880f18.gif)
 ____
+
+at this time RAF has 2 tools is RAF Scanner IDE for SAST also DAST Scanner (/br)
+(RAF Scanner IDE)[https://github.com/Risk-Assessment-Framework/Raf-Scanner](/br)
+(RAF DAST Scanner)(https://github.com/Risk-Assessment-Framework/RAF-DAST-Scanner)(/br)
 
 
 [License]:  /LICENSE
