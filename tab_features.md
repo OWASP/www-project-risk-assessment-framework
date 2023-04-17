@@ -25,3 +25,11 @@ Can be viewed
 -   Types of code upload,
 -   Upload from local disk
 -   Upload from repository
+
+
+## RAF DAST Scanner
+-  Can scan IP/Website
+-  Scan scheduler
+-  generate report
+-  scan by agent based scanning
+-  scan by cve also port scan
