@@ -45,7 +45,7 @@ ____
 
 <https://t.me/joinchat/IjCM_BRrcPYPC3X0DZ4Rog>
 
-##Slack Channel
-#risk-assessment
+##Slack Channel<br>
+#risk-assessment<br>
 
 
