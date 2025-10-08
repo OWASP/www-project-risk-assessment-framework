@@ -1,0 +1,30 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Ade Yoseman Putra
+    email: ade.putra@owasp.org
+level: 2
+license:
+  - MIT
+name: OWASP Risk Assessment Framework
+pitch: Description for OWASP Risk Assessment Framework
+repositories:
+  - name: www-project-risk-assessment-framework
+    url: https://github.com/OWASP/www-project-risk-assessment-framework
+    description: OWASP Foundation Web Repository
+  - name: RAF-DAST-Scanner
+    url: https://github.com/Risk-Assessment-Framework/RAF-DAST-Scanner
+    description: Dast tool
+  - name: Raf-Scanner
+    url: https://github.com/Risk-Assessment-Framework/Raf-Scanner
+    description: Raf Scanner IDE
+  - name: RiskAssessmentFramework
+    url: https://github.com/Risk-Assessment-Framework/RiskAssessmentFramework
+    description: 'The Secure Coding Framework '
+tags:
+  - risk-assessment-framework
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-risk-assessment-framework
